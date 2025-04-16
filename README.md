@@ -56,8 +56,8 @@ Kani Chatbot is an interactive messenger-style chatbot solution developed as a s
 .
 ├── notebooks
 │   ├── this_is_for_makani.ipynb
-│   ├── updated_code.ipynb
-│   ├── output_files
+│   └── updated_code.ipynb
+├── output_files
 │   └── ndvis.html
 ├── static
 │   ├── Kani.jpg
